@@ -15,14 +15,14 @@ Como detectives de datos, analizaremos a fondo el perfil de los empleados, exami
 ¡Acompáñanos en esta investigación y descubre el desenlace de este enigma empresarial! 🧐🔍
 
 ### 🌍 Cómo usar  
-Clona este repositorio.  
+Clona este repositorio.    
 Instala las dependencias necesarias:  
 - seaborn  
 - matplotlib  
 - pandas  
 - numpy  
 - scipy  
-Ejecuta el proyecto.
+Ejecuta el proyecto.  
 Ejecuta la presentación.
 
 🪐 Autores  
