@@ -1,6 +1,6 @@
 ![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
 
-### 🕵️‍♀️ Investigación: Caso Cerrado  
+### 🕵️‍♀️ Investigación de Caso Cerrado  
 Analizamos los datos de la empresa SnoozeLab para descubrir las verdaderas causas detrás de la rotación de empleados y proponer estrategias que impulsen la retención del talento y el bienestar laboral.
 
 ### 🎬 Storytelling
