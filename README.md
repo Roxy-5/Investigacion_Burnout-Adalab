@@ -23,6 +23,7 @@ Instala las dependencias necesarias:
 - numpy  
 - scipy  
 Ejecuta el proyecto.
+Ejecuta la presentación.
 
 🪐 Autores  
 Rocío Ramírez, Irina, Elena y Ángela
@@ -164,3 +165,6 @@ Rocío Ramírez, Irina, Elena y Ángela
 - Mantener la equidad salarial y monitorizar posibles brechas.
 - Potenciar el trabajo en remoto, ya que no afecta negativamente al clima laboral.
 - Capacitar a los managers en liderazgo y gestión de equipos.
+
+## 🎞️ Presentación
+https://www.canva.com/design/DAG0n5W6AYA/rAZtzRmvKAmXKUTSdWdfPw/edit?    utm_content=DAG0n5W6AYA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
