@@ -137,27 +137,28 @@ Rocío Ramírez, Irina, Elena y Ángela
 
 ### 🌋 Hallazgos
 
-- La proporción de empleados en remoto es relevante, pero la rotación afecta tanto a quienes trabajan en remoto como a quienes no.
-- Un mejor balance vida-trabajo se asocia con menor rotación.
-- Los empleados que permanecen muestran mayores niveles de satisfacción laboral y con el entorno.
-- No se observan diferencias salariales significativas entre hombres y mujeres.
-- Los empleados con menos años en la empresa presentan mayor tasa de abandono.
-- Algunos departamentos y roles presentan tasas de abandono más altas.
-- El campo educativo predominante es Life Sciences, pero la satisfacción varía más por puesto que por estudios.
-- Los empleados que viajan más tienden a mostrar menor satisfacción y mayor rotación.
-- No existe una relación clara entre la distancia al trabajo y el salario.
-- Los empleados que abandonan la empresa muestran menor satisfacción con el entorno, menor involucramiento y peores evaluaciones de desempeño.
-
+- **Rotación y satisfacción:** Los empleados que abandonan la empresa muestran menores niveles de satisfacción laboral y con el entorno respecto a quienes permanecen.
+- **Género y abandono:** No existen diferencias salariales significativas entre hombres y mujeres, pero sí diferencias en la satisfacción y en los motivos de abandono según el departamento.
+- **Trabajo en remoto:** El teletrabajo se asocia a mayor antigüedad y salarios más altos, así como reduce la tasa de abandono, especialmente en mujeres.
+- **Balance vida-trabajo:** Un mejor equilibrio vida-trabajo disminuye claramente la rotación.
+- **Viajes y rotación:** Los empleados que viajan más por trabajo tienden a estar menos satisfechos y a abandonar más.
+- **Antigüedad:** Los empleados con menos años en la empresa presentan mayor tasa de abandono.
+- **Promociones:** A mayor tiempo sin promoción, menor satisfacción, sobre todo en empleados con bajo rendimiento.
+- **Satisfacción y relaciones interpersonales:** La satisfacción con el entorno y las relaciones interpersonales son las variables más correlacionadas con la satisfacción general.
+- **Departamentos críticos:** Algunos departamentos y roles presentan tasas de abandono significativamente superiores.
+- **Experiencia previa:** A mayor número de empresas previas, la satisfacción laboral tiende a ser menor y la rotación aumenta.
+- 
 ### 🧭 Recomendaciones estratégicas
 
-- Fomentar el balance vida-trabajo con políticas de flexibilidad y conciliación.
-- Realizar encuestas periódicas y planes de acción en departamentos con mayor rotación.
-- Facilitar oportunidades de promoción interna y desarrollo profesional.
-- Implementar programas de onboarding y mentoring para nuevos empleados.
-- Revisar la política de viajes para minimizar el impacto negativo en la satisfacción.
-- Mantener la equidad salarial y monitorizar posibles brechas.
-- Potenciar el trabajo en remoto, ya que no afecta negativamente al clima laboral.
-- Capacitar a los managers en liderazgo y gestión de equipos.
+- **Mejorar el entorno laboral:** Implementar acciones para aumentar la satisfacción con el entorno y las relaciones interpersonales, especialmente en los departamentos con mayor rotación.
+- **Fomentar el teletrabajo:** Potenciar el trabajo en remoto, sobre todo para perfiles con mayor riesgo de abandono y para mujeres.
+- **Revisar políticas de promoción:** Establecer planes de carrera y promoción más transparentes y frecuentes para reducir la insatisfacción y la fuga de talento.
+- **Equilibrio vida-trabajo:** Promover medidas de conciliación y flexibilidad horaria para mejorar el balance vida-trabajo.
+- **Atención a los nuevos empleados:** Desarrollar programas de onboarding y seguimiento para empleados con poca antigüedad, ya que son los que más abandonan.
+- **Gestión de viajes:** Revisar la política de viajes laborales para minimizar su impacto negativo en la satisfacción y la retención.
+- **Monitorizar roles críticos:** Identificar y actuar sobre los puestos y departamentos con mayor rotación mediante encuestas y entrevistas internas.
+- **Valorar la experiencia:** Identificar candidatos con alta rotación previa y ofrecerles programas de integración y seguimiento para mejorar su satisfacción y retención.
+- **Seguimiento personalizado:** Realizar análisis periódicos segmentados por género, modalidad de trabajo y antigüedad para detectar riesgos y oportunidades de mejora.
 
 ### 🎞️ Presentación
 https://www.canva.com/design/DAG0n5W6AYA/rAZtzRmvKAmXKUTSdWdfPw/edit?utm_content=DAG0n5W6AYA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
