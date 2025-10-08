@@ -147,7 +147,7 @@ Rocío Ramírez, Irina, Elena y Ángela
 - **Satisfacción y relaciones interpersonales:** La satisfacción con el entorno y las relaciones interpersonales son las variables más correlacionadas con la satisfacción general.
 - **Departamentos críticos:** Algunos departamentos y roles presentan tasas de abandono significativamente superiores.
 - **Experiencia previa:** A mayor número de empresas previas, la satisfacción laboral tiende a ser menor y la rotación aumenta.
-- 
+  
 ### 🧭 Recomendaciones estratégicas
 
 - **Mejorar el entorno laboral:** Implementar acciones para aumentar la satisfacción con el entorno y las relaciones interpersonales, especialmente en los departamentos con mayor rotación.
