@@ -52,7 +52,6 @@ Rocío Ramírez, Irina, Elena y Ángela
 🚀 Respuestas a las preguntas del cliente:
 
 1. **¿Qué proporción de empleados trabaja en remoto?**
-   
    <img width="515" height="415" alt="image" src="https://github.com/user-attachments/assets/4d63b17e-c512-4d5a-8cab-19cdbd5db2d7" />
    <img width="698" height="494" alt="image" src="https://github.com/user-attachments/assets/519b2705-461b-4d46-96ca-4c126cffb386" />
    Aproximadamente la mitad de los empleados trabaja en remoto, mostrando una distribución equilibrada entre ambas modalidades.
@@ -61,7 +60,7 @@ Rocío Ramírez, Irina, Elena y Ángela
    <img width="737" height="458" alt="image" src="https://github.com/user-attachments/assets/cfd6c097-c4b5-4c6a-bea3-e83322909fd3" />
    Un mejor balance vida-trabajo se asocia claramente con una menor tasa de abandono.
    
-2.1. **¿Son las personas que acuden presencial al trabajo los que más a gusto están con su vida/trabajo y su entorno?**
+2.1. **¿Son las personas que acuden presencial al trabajo los que más a gusto están con su vida/trabajo y su entorno?**  
     <img width="667" height="461" alt="image" src="https://github.com/user-attachments/assets/adc51a2d-79a7-4265-8c5b-05db3a1be6b2" />
     <img width="699" height="598" alt="image" src="https://github.com/user-attachments/assets/4b473200-365d-4239-9e27-7f4bd0a63580" />
     <img width="517" height="400" alt="image" src="https://github.com/user-attachments/assets/24421c3a-ec1b-459a-9dd0-98854789ca1f" />
@@ -76,12 +75,11 @@ Rocío Ramírez, Irina, Elena y Ángela
     <img width="1184" height="659" alt="image" src="https://github.com/user-attachments/assets/c3298199-2814-4545-93ac-8f828eb39b2d" />
     Quienes permanecen en la empresa muestran mayores niveles de satisfacción laboral y con el entorno.
    
-4.1. **¿Qué perfil de estudios o puesto de trabajo tienen mayor satisfacción?**
+4.1. **¿Qué perfil de estudios o puesto de trabajo tienen mayor satisfacción?**  
       <img width="1011" height="659" alt="image" src="https://github.com/user-attachments/assets/003ab749-9a0e-44fb-8feb-c7a3437bca04" />
       Los puestos técnicos y de mayor responsabilidad presentan los niveles más altos de satisfacción, independientemente del campo de estudios.
 
-5. **¿Qué niveles de satisfacción son más frecuentes?**
-   
+5. **¿Qué niveles de satisfacción son más frecuentes?**   
     <img width="628" height="266" alt="image" src="https://github.com/user-attachments/assets/0d3d2695-094c-4f64-8a59-940be44d9a1a" />
     La mayoría de empleados reporta niveles medios o altos de satisfacción, especialmente entre quienes permanecen en la empresa.
    
@@ -140,7 +138,7 @@ Rocío Ramírez, Irina, Elena y Ángela
 19. **¿Impacto en clima laboral y productividad?**
     <img width="902" height="554" alt="image" src="https://github.com/user-attachments/assets/e0263708-883c-48e9-8751-693ebf4e580a" />
     <img width="1484" height="492" alt="image" src="https://github.com/user-attachments/assets/39e9fc68-f645-4e53-882b-2626254ad600" />
-    Los empleados que abandonan la empresa tienden a mostrar menor satisfacción con el entorno, menor involucramiento y peores evaluaciones de desempeño.
+    Los empleados que abandonan la empresa tienden a mostrar menor satisfacción con el entorno, menor involucramiento y peores evaluaciones de           desempeño.
 
 ### 🌋 Hallazgos
 
