@@ -167,4 +167,4 @@ Rocío Ramírez, Irina, Elena y Ángela
 - Capacitar a los managers en liderazgo y gestión de equipos.
 
 ## 🎞️ Presentación
-https://www.canva.com/design/DAG0n5W6AYA/rAZtzRmvKAmXKUTSdWdfPw/edit?    utm_content=DAG0n5W6AYA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAG0n5W6AYA/rAZtzRmvKAmXKUTSdWdfPw/edit?utm_content=DAG0n5W6AYA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
