@@ -58,9 +58,8 @@ Rocío Ramírez, Irina, Elena y Ángela
    
 2. **¿Son las personas que acuden presencial al trabajo los que más a gusto están con su vida/trabajo y su entorno?**     
     <img width="667" height="461" alt="image" src="https://github.com/user-attachments/assets/adc51a2d-79a7-4265-8c5b-05db3a1be6b2" />
-    <img width="699" height="598" alt="image" src="https://github.com/user-attachments/assets/4b473200-365d-4239-9e27-7f4bd0a63580" />
     <img width="517" height="400" alt="image" src="https://github.com/user-attachments/assets/24421c3a-ec1b-459a-9dd0-98854789ca1f" />
-    No necesariamente; tanto en remoto como presencial hay empleados satisfechos, aunque los de remoto tienden a valorar más su entorno.
+    Las personas que trabajan en remoto tienden a mostrar mayor satisfacción con el entorno laboral.
    
 3. **¿Qué patrón sigue la relación edad vs salario según si trabajan en remoto?**  
     <img width="657" height="461" alt="image" src="https://github.com/user-attachments/assets/bb3b43b3-37e7-4b9b-94df-f1cc7320e89b" />
@@ -91,47 +90,47 @@ Rocío Ramírez, Irina, Elena y Ángela
     <img width="1075" height="463" alt="image" src="https://github.com/user-attachments/assets/75b17c79-0c21-448e-a009-32bc5d325ec4" />
     El trabajo en remoto reduce la tasa de abandono en ambos géneros, pero el efecto es especialmente notable en las mujeres.
         
-11. **¿Influye el número de empresas previas en la satisfacción laboral o en la rotación?**
+10. **¿Influye el número de empresas previas en la satisfacción laboral o en la rotación?**
     <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/209ce61d-ed1e-44d7-806b-3185f17696e2" />
     A mayor número de empresas previas, la satisfacción laboral tiende a ser menor y la rotación aumenta.
     
-12. **¿Cómo se distribuye el salario entre empleados que se han ido y los que se han quedado?**  
+11. **¿Cómo se distribuye el salario entre empleados que se han ido y los que se han quedado?**  
     <img width="1009" height="554" alt="image" src="https://github.com/user-attachments/assets/f681fa70-7608-4655-9977-b41394a094e7" />
     Los empleados que permanecen en la empresa tienden a tener salarios ligeramente superiores a los que se han ido.
     
-13. **¿Qué roles tienen mayor tasa de abandono?**  
+12. **¿Qué roles tienen mayor tasa de abandono?**  
     <img width="623" height="464" alt="image" src="https://github.com/user-attachments/assets/0c737c1b-f268-4c58-9568-1b21d9276632" />
     Los roles comerciales y de soporte presentan las tasas de abandono más elevadas.
   
-14. **¿Cómo varía el número de empleados que se fueron o se quedaron según los años que llevaban en la empresa?**  
+13. **¿Cómo varía el número de empleados que se fueron o se quedaron según los años que llevaban en la empresa?**  
     <img width="979" height="547" alt="image" src="https://github.com/user-attachments/assets/3f8c81ba-e7fb-473b-a65d-6b9da6467c93" />
     Los empleados con menos años en la empresa presentan una mayor tasa de abandono que aquellos con mayor antigüedad.
     
-15. ** 17.- ¿Cómo se agrupan los años desde la última promoción y los años con el manager actual según el estado de abandono?**
+14. ** 17.- ¿Cómo se agrupan los años desde la última promoción y los años con el manager actual según el estado de abandono?**
     <img width="1013" height="550" alt="image" src="https://github.com/user-attachments/assets/f0a5955a-979f-4be8-89a9-bd3e498a2926" />
     Quienes abandonan la empresa suelen haber pasado menos tiempo sin promoción y menos tiempo con su manager.
     
-16. **¿Qué relación hay entre el salario y la antigüedad de los empleados que se quedaron, según si trabajan en remoto o no?**  
+15. **¿Qué relación hay entre el salario y la antigüedad de los empleados que se quedaron, según si trabajan en remoto o no?**  
     <img width="621" height="464" alt="image" src="https://github.com/user-attachments/assets/0f0cfc29-52f8-425c-862a-f856df5e6524" />
     Los empleados que trabajan en remoto y permanecen en la empresa tienden a tener mayor antigüedad y salario.
     
-17. **Qué forma tiene la distribución de ingresos mensuales y cómo varía según el nivel de puesto de trabajo?** 
+16. **Qué forma tiene la distribución de ingresos mensuales y cómo varía según el nivel de puesto de trabajo?** 
     <img width="784" height="484" alt="image" src="https://github.com/user-attachments/assets/b7e3dada-1137-484b-8c91-ab2ea176a115" />
     A mayor nivel de puesto, mayor es el ingreso mensual promedio.
     
-18. **¿Quién tiene mayor salario, hombres o mujeres?**  
+17. **¿Quién tiene mayor salario, hombres o mujeres?**  
     <img width="684" height="484" alt="image" src="https://github.com/user-attachments/assets/c4ff6c06-0988-49d6-8172-1db6a20393d6" />
     No se aprecian diferencias salariales significativas entre hombres y mujeres.
     
-19. **¿Viajar afecta la satisfacción o la rotación?**  
+18. **¿Viajar afecta la satisfacción o la rotación?**  
     <img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/5924b848-3331-4453-940b-f11d99156fb5" />
     Los empleados que viajan más tienden a mostrar menor satisfacción laboral y mayor rotación.
 
-20. **¿Cómo se relacionan distancefromhome y salary?**  
+19. **¿Cómo se relacionan distancefromhome y salary?**  
     <img width="784" height="484" alt="image" src="https://github.com/user-attachments/assets/5b26ac22-9258-469b-aacc-c6c4aedefe58" />
     No existe una relación clara entre la distancia al trabajo y el salario.
     
-21. **¿Impacta el clima laboral en la productividad?**  
+20. **¿Impacta el clima laboral en la productividad?**  
     <img width="902" height="554" alt="image" src="https://github.com/user-attachments/assets/e0263708-883c-48e9-8751-693ebf4e580a" />
     <img width="1484" height="492" alt="image" src="https://github.com/user-attachments/assets/39e9fc68-f645-4e53-882b-2626254ad600" />
     Los empleados que abandonan la empresa tienden a mostrar menor satisfacción con el entorno, menor involucramiento y peores evaluaciones de desempeño.
