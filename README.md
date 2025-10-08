@@ -29,7 +29,7 @@ Ejecuta la presentación.
 🪐 Autores  
 Rocío Ramírez, Irina, Elena y Ángela
 
-🌌 Proceso llevado a cabo para la limpieza y corrección:
+### 🌌 Proceso llevado a cabo para la limpieza y corrección:
 
 - **Exploración inicial:**    
   - Análisis de estructura, tipos de datos, valores nulos y duplicados.
@@ -50,7 +50,7 @@ Rocío Ramírez, Irina, Elena y Ángela
   - Reordenamiento de columnas para mayor claridad.
   - Exportación del dataset limpio a CSV y a base de datos MySQL.
 
-🚀 Respuestas a las preguntas del cliente:
+### 🚀 Respuestas a las preguntas del cliente:
 
 1. **¿Qué proporción de empleados trabaja en remoto?**  
    <img width="515" height="415" alt="image" src="https://github.com/user-attachments/assets/4d63b17e-c512-4d5a-8cab-19cdbd5db2d7" />
@@ -165,5 +165,5 @@ Rocío Ramírez, Irina, Elena y Ángela
 - Potenciar el trabajo en remoto, ya que no afecta negativamente al clima laboral.
 - Capacitar a los managers en liderazgo y gestión de equipos.
 
-## 🎞️ Presentación
+### 🎞️ Presentación
 https://www.canva.com/design/DAG0n5W6AYA/rAZtzRmvKAmXKUTSdWdfPw/edit?utm_content=DAG0n5W6AYA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
