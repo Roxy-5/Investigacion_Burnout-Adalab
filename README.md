@@ -87,7 +87,7 @@ Rocío Ramírez, Irina, Elena y Ángela
     <img width="879" height="484" alt="image" src="https://github.com/user-attachments/assets/79bbc3e5-e4f8-4ac6-95a8-85b6af4607a7" />
     A mayor tiempo sin promoción, la satisfacción tiende a disminuir, especialmente en empleados con bajo rendimiento.
    
-9. **¿Qué relación hay entre el trabajo en remoto y el abandono?** 
+9. **¿Qué relación hay entre el trabajo en remoto y el abandono, según el género?** 
     <img width="1075" height="463" alt="image" src="https://github.com/user-attachments/assets/75b17c79-0c21-448e-a009-32bc5d325ec4" />
     El trabajo en remoto reduce la tasa de abandono en ambos géneros, pero el efecto es especialmente notable en las mujeres.
         
