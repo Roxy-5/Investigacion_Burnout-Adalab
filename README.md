@@ -1,10 +1,18 @@
 ![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
 
 ### 🕵️‍♀️ Investigación Caso Cerrado  
-Se hace un análisis de los datos obtenidos a partir de la empresa ABC Corporation para comprender las causas por las que algunos empleados abandonan la empresa y otros deciden permanecer, con el fin de proponer estrategias que mejoren la retención del talento y el bienestar laboral.
+Analizamos los datos de ABC Corporation para descubrir las verdaderas causas detrás de la rotación de empleados y proponer estrategias que impulsen la retención del talento y el bienestar laboral.
 
 ### 🎬 Storytelling
-En una noche lluviosa de 1950, la agencia de detectives Caso Cerrado recibe una llamada urgente. Un misterio que pone los pelos de punta recorre los pasillos de la empresa: “Las ganas de quedarse han muerto… y nadie sabe por qué”. Nuestra misión será resolver el caso. Para ello analizaremos los empleados, interrogaremos a las variables y encontraremos al verdadero culpable detrás de la rotación de empleados y la baja satisfacción laboral.
+En una noche lluviosa de 1950, la agencia de detectives Caso Cerrado recibe una llamada urgente. Un misterio inquietante recorre los pasillos de la empresa:
+
+*“Las ganas de quedarse han muerto… y nadie sabe por qué”.*
+
+Nuestra misión: resolver el caso.
+Como detectives de datos, analizaremos a fondo el perfil de los empleados, examinaremos cada variable para generar relaciones y seguiremos las pistas hasta encontrar al verdadero culpable de la fuga de talento y la baja satisfacción laboral.
+
+¿Serán las condiciones de trabajo? ¿El salario? ¿El ambiente?
+¡Acompáñanos en esta investigación y descubre el desenlace de este enigma empresarial! 🧐🔍
 
 ### 🌍 Cómo usar  
 Clona este repositorio.  
