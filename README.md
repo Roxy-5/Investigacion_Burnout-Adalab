@@ -29,7 +29,7 @@ Ejecuta la presentación.
 🪐 Autores  
 Rocío Ramírez, Irina, Elena y Ángela
 
-### 🌌 Proceso llevado a cabo para la limpieza y corrección:
+### 🌌 Proceso llevado a cabo para la limpieza y corrección
 
 - **Exploración inicial:**    
   - Análisis de estructura, tipos de datos, valores nulos y duplicados.
