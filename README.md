@@ -1,6 +1,6 @@
 ![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
 
-### 🧐🔍 Investigación Burnout
+### 🔍 Investigación Burnout
 Analizamos los datos de Toasted Minds Inc. 🍞 para descubrir las verdaderas causas detrás de la rotación de empleados y proponer estrategias que impulsen la retención del talento y el bienestar laboral.
 
 ### 🎬 Storytelling
