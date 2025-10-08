@@ -22,6 +22,7 @@ Instala las dependencias necesarias:
 - pandas  
 - numpy  
 - scipy
+
 Ejecuta el proyecto.  
 Ejecuta la presentación.
 
