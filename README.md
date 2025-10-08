@@ -88,7 +88,7 @@ Rocío Ramírez, Irina, Elena y Ángela
     A mayor tiempo sin promoción, la satisfacción tiende a disminuir, especialmente en empleados con bajo rendimiento.
    
 9. **¿Qué relación hay entre el trabajo en remoto y el abandono?** 
-    <img width="1075" height="541" alt="image" src="https://github.com/user-attachments/assets/4a499523-c4cd-4ede-b20f-b690dbe97a02" />
+    <img width="1075" height="463" alt="image" src="https://github.com/user-attachments/assets/75b17c79-0c21-448e-a009-32bc5d325ec4" />
     El trabajo en remoto reduce la tasa de abandono en ambos géneros, pero el efecto es especialmente notable en las mujeres.
         
 11. **¿Influye el número de empresas previas en la satisfacción laboral o en la rotación?**
