@@ -1,10 +1,10 @@
 ![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
 
-### 🕵️‍♀️ Investigación Burnout
+### 🧐🔍 Investigación Burnout
 Analizamos los datos de Toasted Minds Inc. 🍞 para descubrir las verdaderas causas detrás de la rotación de empleados y proponer estrategias que impulsen la retención del talento y el bienestar laboral.
 
 ### 🎬 Storytelling
-En una noche lluviosa de 1950, la agencia de detectives Lady Spies recibe una llamada urgente. Un misterio inquietante recorre los pasillos de la empresa:
+En una noche lluviosa de 1950, la agencia de detectives Lady Spies 🕵️‍♀️ recibe una llamada urgente. Un misterio inquietante recorre los pasillos de la empresa:
 
 *“Las ganas de quedarse han muerto… y nadie sabe por qué”.*
 
@@ -12,7 +12,7 @@ Nuestra misión: resolver el caso.
 Como detectives de datos, analizaremos a fondo el perfil de los empleados, examinaremos cada variable para generar relaciones y seguiremos las pistas hasta encontrar al verdadero culpable.
 
 ¿Serán las condiciones de trabajo? ¿El salario? ¿El ambiente?
-¡Acompáñanos en esta investigación y descubre el desenlace de este enigma empresarial! 🧐🔍
+¡Acompáñanos en esta investigación y descubre el desenlace de este enigma empresarial! 
 
 ### 🌍 Cómo usar  
 Clona este repositorio.    
