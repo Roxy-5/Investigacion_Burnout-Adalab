@@ -21,8 +21,7 @@ Instala las dependencias necesarias:
 - matplotlib  
 - pandas  
 - numpy  
-- scipy
-
+- scipy  
 Ejecuta el proyecto.  
 Ejecuta la presentación.
 
