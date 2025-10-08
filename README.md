@@ -71,7 +71,7 @@ Rocío Ramírez, Irina, Elena y Ángela
     <img width="1184" height="659" alt="image" src="https://github.com/user-attachments/assets/c3298199-2814-4545-93ac-8f828eb39b2d" />
     Quienes permanecen en la empresa muestran mayores niveles de satisfacción laboral y con el entorno.
    
-5. **¿Qué perfil de puesto de trabajo tienen mayor satisfacción?**    
+5. **¿Qué perfil de puesto de trabajo tiene mayor satisfacción, según el género?**    
       <img width="1011" height="659" alt="image" src="https://github.com/user-attachments/assets/003ab749-9a0e-44fb-8feb-c7a3437bca04" />
       Los puestos técnicos y de mayor responsabilidad presentan los niveles más altos de satisfacción, independientemente del campo de estudios.
 
