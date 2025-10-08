@@ -1,7 +1,7 @@
 ![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
 
 ### 🕵️‍♀️ Investigación de Caso Cerrado  
-Analizamos los datos de la corporación SnoozeLab para descubrir las verdaderas causas detrás de la rotación de empleados y proponer estrategias que impulsen la retención del talento y el bienestar laboral.
+Analizamos los datos de la SnoozeLab Inc. para descubrir las verdaderas causas detrás de la rotación de empleados y proponer estrategias que impulsen la retención del talento y el bienestar laboral.
 
 ### 🎬 Storytelling
 En una noche lluviosa de 1950, la agencia de detectives Caso Cerrado recibe una llamada urgente. Un misterio inquietante recorre los pasillos de la empresa:
