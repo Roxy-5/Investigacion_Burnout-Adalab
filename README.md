@@ -49,7 +49,7 @@ Rocío Ramírez
    <img width="737" height="458" alt="image" src="https://github.com/user-attachments/assets/cfd6c097-c4b5-4c6a-bea3-e83322909fd3" />
    Un mejor balance vida-trabajo se asocia claramente con una menor tasa de abandono.
    
-2.1 **¿Son las personas que acuden presencial al trabajo los que más a gusto están con su vida/trabajo y su entorno?**
+2.1. **¿Son las personas que acuden presencial al trabajo los que más a gusto están con su vida/trabajo y su entorno?**
     <img width="667" height="461" alt="image" src="https://github.com/user-attachments/assets/adc51a2d-79a7-4265-8c5b-05db3a1be6b2" />
     <img width="699" height="598" alt="image" src="https://github.com/user-attachments/assets/4b473200-365d-4239-9e27-7f4bd0a63580" />
     <img width="517" height="400" alt="image" src="https://github.com/user-attachments/assets/24421c3a-ec1b-459a-9dd0-98854789ca1f" />
