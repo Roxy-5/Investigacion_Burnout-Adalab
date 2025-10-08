@@ -144,9 +144,11 @@ Rocío Ramírez, Irina, Elena y Ángela
 - **Viajes y rotación:** Los empleados que viajan más por trabajo tienden a estar menos satisfechos y a abandonar más.
 - **Antigüedad:** Los empleados con menos años en la empresa presentan mayor tasa de abandono.
 - **Promociones:** A mayor tiempo sin promoción, menor satisfacción, sobre todo en empleados con bajo rendimiento.
+- **Relación con el manager:** Los empleados que han pasado menos tiempo con su manager actual presentan una mayor tasa de abandono.
 - **Satisfacción y relaciones interpersonales:** La satisfacción con el entorno y las relaciones interpersonales son las variables más correlacionadas con la satisfacción general.
-- **Departamentos críticos:** Algunos departamentos y roles presentan tasas de abandono significativamente superiores.
+- **Departamentos críticos:** Algunos departamentos como el de ventas y soporte presentan tasas de abandono significativamente superiores.
 - **Experiencia previa:** A mayor número de empresas previas, la satisfacción laboral tiende a ser menor y la rotación aumenta.
+- **Clima laboral y rotación:** Los empleados que abandonan la empresa presentan menores niveles de satisfacción con el entorno laboral, menor involucramiento y peores evaluaciones de desempeño. 
   
 ### 🧭 Recomendaciones estratégicas
 
@@ -155,10 +157,13 @@ Rocío Ramírez, Irina, Elena y Ángela
 - **Revisar políticas de promoción:** Establecer planes de carrera y promoción más transparentes y frecuentes para reducir la insatisfacción y la fuga de talento.
 - **Equilibrio vida-trabajo:** Promover medidas de conciliación y flexibilidad horaria para mejorar el balance vida-trabajo.
 - **Atención a los nuevos empleados:** Desarrollar programas de onboarding y seguimiento para empleados con poca antigüedad, ya que son los que más abandonan.
+- **Fomentar la estabilidad de managers:** Promover la continuidad y capacitación de los managers, ya que una relación estable con el manager reduce la rotación.
 - **Gestión de viajes:** Revisar la política de viajes laborales para minimizar su impacto negativo en la satisfacción y la retención.
 - **Monitorizar roles críticos:** Identificar y actuar sobre los puestos y departamentos con mayor rotación mediante encuestas y entrevistas internas.
 - **Valorar la experiencia:** Identificar candidatos con alta rotación previa y ofrecerles programas de integración y seguimiento para mejorar su satisfacción y retención.
+- **Mejorar el clima laboral:** Implementar acciones para fomentar un entorno de trabajo positivo, promoviendo la comunicación, el trabajo en equipo y el bienestar general. 
 - **Seguimiento personalizado:** Realizar análisis periódicos segmentados por género, modalidad de trabajo y antigüedad para detectar riesgos y oportunidades de mejora.
+- **Reconocimiento y recompensas:** Estas iniciativas pueden aumentar la motivación, mejorar la satisfacción laboral y contribuir a la retención del talento. 
 
 ### 🎞️ Presentación
 https://www.canva.com/design/DAG0n5W6AYA/rAZtzRmvKAmXKUTSdWdfPw/edit?utm_content=DAG0n5W6AYA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
