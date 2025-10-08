@@ -1,6 +1,6 @@
 ![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
 
-### 🔍🧐 Investigación Caso Cerrado  
+### 🕵️‍♀️ Investigación Caso Cerrado  
 Se hace un análisis de los datos obtenidos a partir de la empresa ABC Corporation para comprender las causas por las que algunos empleados abandonan la empresa y otros deciden permanecer, con el fin de proponer estrategias que mejoren la retención del talento y el bienestar laboral.
 
 ### 🎬 Storytelling
