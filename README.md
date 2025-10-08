@@ -1,12 +1,12 @@
 ![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
 
-###🔍🧐 Investigación Caso Cerrado  
+### 🔍🧐 Investigación Caso Cerrado  
 Se hace un análisis de los datos obtenidos a partir de la empresa ABC Corporation para comprender las causas por las que algunos empleados abandonan la empresa y otros deciden permanecer, con el fin de proponer estrategias que mejoren la retención del talento y el bienestar laboral.
 
-###🎬 Storytelling
+### 🎬 Storytelling
 En una noche lluviosa de 1950, la agencia de detectives Caso Cerrado recibe una llamada urgente. Un misterio que pone los pelos de punta recorre los pasillos de la empresa: “Las ganas de quedarse han muerto… y nadie sabe por qué”. Nuestra misión será resolver el caso. Para ello analizaremos los empleados, interrogaremos a las variables y encontraremos al verdadero culpable detrás de la rotación de empleados y la baja satisfacción laboral.
 
-###🌍 Cómo usar  
+### 🌍 Cómo usar  
 Clona este repositorio.  
 Instala las dependencias necesarias:  
 - seaborn  
@@ -133,7 +133,7 @@ Rocío Ramírez, Irina, Elena y Ángela
     <img width="1484" height="492" alt="image" src="https://github.com/user-attachments/assets/39e9fc68-f645-4e53-882b-2626254ad600" />
     Los empleados que abandonan la empresa tienden a mostrar menor satisfacción con el entorno, menor involucramiento y peores evaluaciones de desempeño.
 
-🌋 ###Hallazgos
+### 🌋 Hallazgos
 
 - La proporción de empleados en remoto es relevante, pero la rotación afecta tanto a quienes trabajan en remoto como a quienes no.
 - Un mejor balance vida-trabajo se asocia con menor rotación.
@@ -146,7 +146,7 @@ Rocío Ramírez, Irina, Elena y Ángela
 - No existe una relación clara entre la distancia al trabajo y el salario.
 - Los empleados que abandonan la empresa muestran menor satisfacción con el entorno, menor involucramiento y peores evaluaciones de desempeño.
 
-🧭 ###Recomendaciones estratégicas
+### 🧭 Recomendaciones estratégicas
 
 - Fomentar el balance vida-trabajo con políticas de flexibilidad y conciliación.
 - Realizar encuestas periódicas y planes de acción en departamentos con mayor rotación.
