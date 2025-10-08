@@ -72,7 +72,7 @@ Rocío Ramírez, Irina, Elena y Ángela
    
 5. **¿Qué perfil de puesto de trabajo tiene mayor satisfacción, según el género?**    
       <img width="1011" height="659" alt="image" src="https://github.com/user-attachments/assets/003ab749-9a0e-44fb-8feb-c7a3437bca04" />
-      Los puestos técnicos y de mayor responsabilidad presentan los niveles más altos de satisfacción, independientemente del campo de estudios.
+      Los puestos de mayor responsabilidad presentan niveles más altos de satisfacción, destacando los técnicos y de ventas en hombres y Recursos Humanos en mujeres.
 
 6. **¿Qué niveles de satisfacción son más frecuentes?**     
     <img width="628" height="266" alt="image" src="https://github.com/user-attachments/assets/0d3d2695-094c-4f64-8a59-940be44d9a1a" />
