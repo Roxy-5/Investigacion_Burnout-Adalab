@@ -106,7 +106,7 @@ Rocío Ramírez, Irina, Elena y Ángela
     <img width="979" height="547" alt="image" src="https://github.com/user-attachments/assets/3f8c81ba-e7fb-473b-a65d-6b9da6467c93" />
     Los empleados con menos años en la empresa presentan una mayor tasa de abandono que aquellos con mayor antigüedad.
     
-14. ** 17.- ¿Cómo se agrupan los años desde la última promoción y los años con el manager actual según el estado de abandono?**
+14. **¿Cómo se agrupan los años desde la última promoción y los años con el manager actual según el estado de abandono?**
     <img width="1013" height="550" alt="image" src="https://github.com/user-attachments/assets/f0a5955a-979f-4be8-89a9-bd3e498a2926" />
     Quienes abandonan la empresa suelen haber pasado menos tiempo sin promoción y menos tiempo con su manager.
     
