@@ -49,7 +49,7 @@ Rocío Ramírez, Irina, Elena y Ángela
   - Reordenamiento de columnas para mayor claridad.
   - Exportación del dataset limpio a CSV y a base de datos MySQL.
 
-### 🚀 Respuestas a las preguntas del cliente:
+### 🚀 Respuestas a las preguntas del cliente
 
 1. **¿El balance vida-trabajo influye en la retención?**  
    <img width="737" height="458" alt="image" src="https://github.com/user-attachments/assets/cfd6c097-c4b5-4c6a-bea3-e83322909fd3" />
