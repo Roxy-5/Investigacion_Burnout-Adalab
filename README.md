@@ -1,6 +1,6 @@
 ![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
 ### 🔍 Investigación Burnout
-Analizamos los datos de Toasted Minds Inc. 🍞 para descubrir las verdaderas causas detrás de la rotación de empleados. De esta forma, podemos proponer estrategias que impulsan la retención del talento y el bienestar laboral.
+Analizamos los datos de Toasted Minds Inc. 🍞 para descubrir las verdaderas causas detrás de la rotación de empleados. De esta forma, podemos proponer estrategias que impulsan la retención de talento y el bienestar laboral.
 
 ### 🎬 Storytelling
 En una noche lluviosa de 1950, la agencia de detectives LadySpies 🕵️‍♀️ recibe una llamada urgente. Un misterio inquietante recorre los pasillos de la empresa:
