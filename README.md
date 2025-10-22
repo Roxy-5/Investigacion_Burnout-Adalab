@@ -3,9 +3,7 @@
 Analizamos los datos de Toasted Minds Inc. 🍞 para descubrir las verdaderas causas detrás de la rotación de empleados. De esta forma, podemos proponer estrategias que impulsan la retención de talento y el bienestar laboral.
 
 ### 🎬 Storytelling
-En una noche lluviosa de 1950, la agencia de detectives LadySpies 🕵️‍♀️ recibe una llamada urgente. Un misterio inquietante recorre los pasillos de la empresa:
-
-*“Las ganas de quedarse han muerto… y nadie sabe por qué”.*
+En una noche lluviosa de 1950, la agencia de detectives LadySpies 🕵️‍♀️ recibe una llamada urgente. Un misterio inquietante recorre los pasillos de la empresa: *“Las ganas de quedarse han muerto… y nadie sabe por qué”.*
 
 Nuestra misión: resolver el caso.
 Como detectives de datos, analizaremos a fondo el perfil de los empleados, examinaremos cada variable para generar relaciones y seguiremos las pistas hasta encontrar al verdadero culpable.
