@@ -17,6 +17,8 @@ Instala las dependencias necesarias:
 - pandas  
 - numpy  
 - scipy  
+- word2number
+- scikit-learn
 
 Ejecuta el proyecto.  
 Ejecuta la presentación.
