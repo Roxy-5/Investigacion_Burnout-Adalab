@@ -9,7 +9,7 @@ Nuestra misión: resolver el caso. Como detectives de datos analizaremos a fondo
 
 ¿Serán las condiciones de trabajo? ¿El salario? ¿El ambiente? ¡Acompáñanos en esta investigación y descubre el desenlace de este interesante enigma empresarial! 
 
-### 🌍 Cómo usar  
+### 🚀 Cómo usar  
 Clona este repositorio.    
 Instala las dependencias necesarias:  
 - seaborn  
@@ -26,7 +26,7 @@ Ejecuta la presentación.
 🪐 Autores  
 Rocío Ramírez, Irina, Elena y Ángela
 
-### 🌌 Proceso llevado a cabo para la limpieza y corrección
+### 📈 Proceso llevado a cabo para la limpieza y corrección
 
 - **Exploración inicial:**    
   - Análisis de estructura, tipos de datos, valores nulos y duplicados.
@@ -47,7 +47,7 @@ Rocío Ramírez, Irina, Elena y Ángela
   - Reordenamiento de columnas para mayor claridad.
   - Exportación del dataset limpio a CSV y a base de datos MySQL.
 
-### 🚀 Respuestas a las preguntas del cliente
+### 🎯 Respuestas a las preguntas del cliente
 
 1. **¿El balance vida-trabajo influye en la retención?**  
    <img width="737" height="458" alt="image" src="https://github.com/user-attachments/assets/cfd6c097-c4b5-4c6a-bea3-e83322909fd3" />
