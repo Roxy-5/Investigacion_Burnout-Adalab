@@ -27,7 +27,6 @@ Ejecuta la presentación.
 Rocío Ramírez, Irina, Elena y Ángela
 
 ### 📈 Proceso llevado a cabo para la limpieza y corrección
-
 - **Exploración inicial:**    
   - Análisis de estructura, tipos de datos, valores nulos y duplicados.
   - Uso de métodos como `.info()`, `.sample()`, `.dtypes`, `.describe()`, `.isnull()`, `.duplicated()`, `.unique()`.
@@ -48,7 +47,6 @@ Rocío Ramírez, Irina, Elena y Ángela
   - Exportación del dataset limpio a CSV y a base de datos MySQL.
 
 ### 🎯 Respuestas a las preguntas del cliente
-
 1. **¿El balance vida-trabajo influye en la retención?**  
    <img width="737" height="458" alt="image" src="https://github.com/user-attachments/assets/cfd6c097-c4b5-4c6a-bea3-e83322909fd3" />
    Un mejor balance vida-trabajo se asocia claramente con una menor tasa de abandono.
@@ -133,7 +131,6 @@ Rocío Ramírez, Irina, Elena y Ángela
     Los empleados que abandonan la empresa tienden a mostrar menor satisfacción con el entorno, menor involucramiento y peores evaluaciones de desempeño.
 
 ### 🌋 Hallazgos
-
 - **Rotación y satisfacción:** Los empleados que abandonan la empresa muestran menores niveles de satisfacción laboral y con el entorno respecto a quienes permanecen.
 - **Género y abandono:** No existen diferencias salariales significativas entre hombres y mujeres, pero sí diferencias en la satisfacción y en los motivos de abandono según el departamento.
 - **Trabajo en remoto:** El teletrabajo se asocia a mayor antigüedad y salarios más altos, así como reduce la tasa de abandono, especialmente en mujeres.
@@ -148,7 +145,6 @@ Rocío Ramírez, Irina, Elena y Ángela
 - **Clima laboral y rotación:** Los empleados que abandonan la empresa presentan menores niveles de satisfacción con el entorno laboral, menor involucramiento y peores evaluaciones de desempeño. 
   
 ### 🧭 Recomendaciones estratégicas
-
 - **Mejorar el entorno laboral:** Implementar acciones para aumentar la satisfacción con el entorno y las relaciones interpersonales, especialmente en los departamentos con mayor rotación.
 - **Fomentar el teletrabajo:** Potenciar el trabajo en remoto, sobre todo para perfiles con mayor riesgo de abandono y para mujeres.
 - **Revisar políticas de promoción:** Establecer planes de carrera y promoción más transparentes y frecuentes para reducir la insatisfacción y la fuga de talento.
