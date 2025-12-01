@@ -159,4 +159,4 @@ Rocío Ramírez, Irina, Elena y Ángela
 - **Reconocimiento y recompensas:** Estas iniciativas pueden aumentar la motivación, mejorar la satisfacción laboral y contribuir a la retención del talento. 
 
 ### 🎞️ Presentación
-https://www.canva.com/design/DAG0n5W6AYA/rAZtzRmvKAmXKUTSdWdfPw/edit?utm_content=DAG0n5W6AYA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAG6R3dFQuA/wQ3B0AcHBqJzknrEgeJIJg/edit?utm_content=DAG6R3dFQuA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
